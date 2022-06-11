@@ -105,7 +105,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dataRds',
         'USER': 'admin',
-        'PASSWORD': 'Asdfghjkl@123',
+        'PASSWORD': 'Asdfghjkl123',
         'HOST': 'database-1.cortnquh2p8o.ap-south-1.rds.amazonaws.com',
         'PORT': '3306',
     }
